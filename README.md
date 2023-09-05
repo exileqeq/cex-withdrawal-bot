@@ -9,7 +9,7 @@ The CEX Withdrawal Bot is a tool for securely and efficiently withdrawing assets
 ### Features
 
 - Secure and efficient withdrawal of assets from supported centralized exchanges.
-- Support for multiple exchanges, including but not limited to Binance, Kraken, and Coinbase.
+- Support for multiple exchanges, including but not limited to Binance, Kraken, Coinbase, Mexc, Kucoin, Gate, Okx, Huobi and Bybit .
 - Automated withdrawal scheduling for regular transfers.
 - Error handling and notifications for withdrawal-related issues.
 - Configuration options for custom withdrawal strategies.
