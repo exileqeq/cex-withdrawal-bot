@@ -1,1 +1,22 @@
+# Contributing to the CEX Withdrawal Bot
+
+Thank you for considering contributing to the CEX Withdrawal Bot. Your contributions help improve the project and make it more valuable to the community. Before you start, please take a moment to read this guide to understand how you can contribute effectively.
+
+## Code of Conduct
+
+Please note that this project is governed by our Code of Conduct. By participating in this project, you agree to abide by its terms.
+
+## How to Contribute
+
+1. **Fork the Repository:**
+
+   Fork the CEX Withdrawal Bot repository to your GitHub account by clicking the "Fork" button at the top of this page.
+
+2. **Clone the Repository:**
+
+   Clone your forked repository to your local machine using the following command :
+
+   ```bash
+   git clone https://github.com/exileqeq/cex-withdrawal-bot.git
+   cd cex-withdrawal-bot
 
