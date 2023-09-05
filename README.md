@@ -1,7 +1,3 @@
-## About
-
-![Bot Logo](bo8080808) 
-
 ## Overview
 
 The CEX Withdrawal Bot is a tool for securely and efficiently withdrawing assets from various centralized exchanges. This bot simplifies the withdrawal process and offers additional features such as automatic withdrawal scheduling and error handling.
