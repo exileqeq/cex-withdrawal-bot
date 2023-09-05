@@ -62,7 +62,7 @@ Here are some planned features for the CEX Withdrawal Bot:
 
 ## Contributing
 
-We welcome contributions from the community. To contribute to this project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community. To contribute to this project, please follow our Contribution Guidelines.
 
 ## License
 
